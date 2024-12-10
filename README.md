@@ -1,4 +1,4 @@
-# This is a real-time social media-like notification application that demonstrates:
+## This is a real-time social media-like notification application that demonstrates:
 
 - Socket.IO for real-time communication
 - React for dynamic user interfaces
