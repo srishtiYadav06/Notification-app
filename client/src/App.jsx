@@ -30,7 +30,7 @@ const App = () => {
         </>
       ) : (
         <div className="login">
-          <h2>Lama App</h2>
+          <h2>Notification App</h2>
           <input
             type="text"
             placeholder="username"
